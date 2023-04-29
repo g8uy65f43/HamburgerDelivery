@@ -1,0 +1,38 @@
+.Mainsearch {
+    padding-top: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.searchBox {
+    display: flex;
+    background-color: rgb(218, 218, 218);
+    height: 30px;
+    line-height: 30px;
+    border: 0px solid #000;
+    transition: all .1s;
+    border-radius: 20px;
+    margin: 10px 10px;
+    margin-top: 0;
+}
+
+.searchBox:hover {
+    border: 2px solid #000;
+}
+
+
+.searchBox i {
+    margin-top: 10px;
+    flex: 1;
+    line-height: 30px;
+    margin: 0 5px;
+}
+
+.searchBox input {
+    flex: 20;
+    background-color: rgba(235, 235, 235, 0);
+    outline: none;
+    border: none;
+}

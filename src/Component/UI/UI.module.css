@@ -1,0 +1,9 @@
+.ulbox{
+display: flex;
+width:50px;
+font-size: 20px;
+justify-content: flex-end;
+}
+.ulbox li{
+margin: 0 2px;
+}
