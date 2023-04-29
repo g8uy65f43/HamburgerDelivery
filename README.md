@@ -1,5 +1,5 @@
 # HamburgerDelivery
-使い方
+## 使い方
 １．HamburgerDeliveryrのmodulesをインストール npm install
 
 ２．起動 npm start
